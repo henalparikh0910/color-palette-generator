@@ -1,0 +1,17 @@
+[
+  {
+    "palette_id": 1,
+    "colors": ["#D9C5AD", "#B99A7A", "#8C6A4F", "#4E3D2F"],
+    "style": ["warm", "cozy", "earthy"]
+  },
+  {
+    "palette_id": 2,
+    "colors": ["#F2EFEA", "#C4C4C4", "#8E8E8E", "#2D2D2D"],
+    "style": ["minimalist", "modern", "neutral"]
+  },
+  {
+    "palette_id": 3,
+    "colors": ["#F0D9E7", "#FEC8D8", "#D291BC", "#957DAD"],
+    "style": ["soft", "feminine", "pastel"]
+  }
+]
